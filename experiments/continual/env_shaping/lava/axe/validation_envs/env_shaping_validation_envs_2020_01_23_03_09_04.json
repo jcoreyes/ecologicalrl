@@ -1,0 +1,25 @@
+{
+    "agent_start_pos": null,
+    "agent_view_size": 5,
+    "end_on_task_completion": false,
+    "fixed_reset": false,
+    "fully_observed": false,
+    "gen_resources": true,
+    "grid_size": 10,
+    "health_cap": 1000,
+    "init_resources": {
+        "metal": 2,
+        "wood": 2
+    },
+    "lava_timeout": Infinity,
+    "make_rtype": "sparse",
+    "num_lava": 5,
+    "only_partial_obs": true,
+    "replenish_low_resources": {
+        "metal": 2,
+        "wood": 2
+    },
+    "seed": 86803,
+    "task": "make axe",
+    "time_horizon": 0
+}

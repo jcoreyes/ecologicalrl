@@ -1,0 +1,23 @@
+{
+    "agent_start_pos": null,
+    "end_on_task_completion": true,
+    "fixed_expected_resources": true,
+    "fixed_reset": false,
+    "fixed_walls": true,
+    "fully_observed": false,
+    "gen_resources": false,
+    "grid_size": 10,
+    "health_cap": 1000,
+    "init_resources": {
+        "metal": 1,
+        "wood": 1
+    },
+    "make_rtype": "sparse",
+    "num_walls": 3,
+    "only_partial_obs": true,
+    "region": "cross",
+    "seed": 2102,
+    "sticky_prob": 0.25,
+    "task": "make axe",
+    "time_horizon": 500
+}

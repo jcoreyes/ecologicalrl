@@ -1,0 +1,20 @@
+{
+    "agent_start_pos": null,
+    "deer_move_prob": 0.2,
+    "end_on_task_completion": true,
+    "fixed_expected_resources": true,
+    "fixed_reset": false,
+    "fully_observed": false,
+    "gen_resources": true,
+    "grid_size": 8,
+    "health_cap": 1000,
+    "init_resources": {
+        "axe": 2,
+        "deer": 2
+    },
+    "make_rtype": "sparse",
+    "only_partial_obs": true,
+    "seed": 92272,
+    "task": "make food",
+    "time_horizon": 100
+}

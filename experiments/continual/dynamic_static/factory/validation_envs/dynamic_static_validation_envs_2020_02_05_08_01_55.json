@@ -1,0 +1,30 @@
+{
+    "agent_start_pos": null,
+    "end_on_task_completion": true,
+    "fixed_expected_resources": true,
+    "fixed_reset": false,
+    "fully_observed": false,
+    "gen_resources": false,
+    "grid_size": 8,
+    "health_cap": 1000,
+    "init_resources": {
+        "lava": 1,
+        "metalfactory": 1,
+        "woodfactory": 1
+    },
+    "make_rtype": "sparse",
+    "make_sequence": [
+        "metal",
+        "wood",
+        "axe",
+        "lava"
+    ],
+    "only_partial_obs": true,
+    "resource_prob": {
+        "metal": 0.0,
+        "wood": 0.0
+    },
+    "seed": 26176,
+    "task": "make lava",
+    "time_horizon": 0
+}

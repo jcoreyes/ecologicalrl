@@ -1,0 +1,38 @@
+{
+    "agent_start_pos": null,
+    "deer_dist_period": 1,
+    "deer_dists": [
+        {
+            "easy": 0,
+            "hard": 1,
+            "medium": 0
+        },
+        {
+            "easy": 0,
+            "hard": 1,
+            "medium": 0
+        }
+    ],
+    "deer_move_prob": 0.2,
+    "default_lifespan": 0,
+    "end_on_task_completion": false,
+    "fixed_expected_resources": true,
+    "fixed_reset": false,
+    "fully_observed": false,
+    "gen_resources": true,
+    "grid_size": 10,
+    "health_cap": 1000,
+    "init_resources": {
+        "axe": 2,
+        "deer": 2
+    },
+    "make_rtype": "sparse",
+    "only_partial_obs": true,
+    "replenish_low_resources": {
+        "axe": 2,
+        "deer": 2
+    },
+    "seed": 60208,
+    "task": "make food",
+    "time_horizon": 0
+}

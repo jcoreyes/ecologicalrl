@@ -1,0 +1,33 @@
+{
+    "agent_start_pos": null,
+    "end_on_task_completion": true,
+    "fixed_expected_resources": true,
+    "fixed_reset": false,
+    "fully_observed": false,
+    "gen_resources": true,
+    "grid_size": 10,
+    "health_cap": 1000,
+    "init_resources": {
+        "food": 2,
+        "monster": 2
+    },
+    "lifespans": {
+        "food": 0,
+        "monster": 0
+    },
+    "make_rtype": "sparse",
+    "monster_attack_dist": 0,
+    "monster_eps": 0.25,
+    "only_partial_obs": true,
+    "replenish_low_resources": {
+        "food": 2,
+        "monster": 2
+    },
+    "resource_prob": {
+        "food": 0.0,
+        "monster": 0.0
+    },
+    "seed": 15986,
+    "task": "make food",
+    "time_horizon": 0
+}

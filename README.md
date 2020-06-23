@@ -1,5 +1,7 @@
 # Ecological RL
-Under review as a conference paper at NeurIPS 2020.
+[Paper](https://arxiv.org/abs/2006.12478)
+
+[Website](https://sites.google.com/view/ecological-rl/home)
 
 ## Terminology
 The following is a mapping from terminology used in the codebase to that used in the paper, where it differs:
